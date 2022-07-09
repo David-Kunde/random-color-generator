@@ -21,5 +21,3 @@ while True:
     print(background_color)
     wn.bgcolor(background_color)
     time.sleep(0.1)
-
-tt.done()
